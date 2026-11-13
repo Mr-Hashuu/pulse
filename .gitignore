@@ -1,0 +1,8 @@
+node_modules
+.env
+backend/uploads
+mobile/android
+mobile/ios
+.expo
+backend/firebase-service-account.json
+mobile/google-services.json
